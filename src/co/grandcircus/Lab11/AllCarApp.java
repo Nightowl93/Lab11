@@ -1,12 +1,7 @@
 /*Shontinique Uqdah
  * July 30, 2018
  * 
- * Polymorphism: Polymorphism is the ability of an object to take on many forms, such as when a parent class reference is used
- * to refer to a child class object. So, for example in my lab, I used polymorphism when using and creating the 
- * instances of used car. A used car object IS-A instance of the UsedCar class and also IS-A instance of the Car class through inheritance, thus 
- * the instances of UsedCar show polymorphism. More specifically, when I created an ArrayList of type Car, but then included instances of UsedCar in that
- * array list, that was possible because of polymorphism and inheritance.
- */
+ * */
 
 package co.grandcircus.Lab11;
 
